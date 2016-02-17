@@ -1,0 +1,60 @@
+Sergio Vieira
+Software Engineer and Network Researcher (sergiosvieira@gmail.com)
+
+I always enjoyed the idea of make a computer do what I want. My first programming experience was when I had twelve years old with my old computer TK3000II. Since that, I never stopped to programming, and nowadays I still have fun learning new programming languages and improving my computer skills. During my academic period I've acquired experience in Network R&D mainly using a software called Network Simulator versions 2 and 3, and during my professional experience I've learned how to design a software architecture that is easy to maintain and how to work with a team. I love design a solution and make it be reality.
+
+Skill Set Summary
+Software Enginnering
+Software and System Architecture, C++, C, Objective-C, Swift, PHP, Python, Bash, SQL, UML, GDAL, Networking, TCP/IP, HTML5, CSS3, Javascript, jQuery, Wordpress, Magento, Git, SVN.
+
+Personal Open Source Projects
+SDL Game Framework - https://github.com/sergiosvieira/yda
+Memory Game using Cocos2d-x (C++ Programming) - https://github.com/sergiosvieira/memory_game
+Example of usage of Zip Library - https://github.com/sergiosvieira/compress
+CMake example usage - https://github.com/sergiosvieira/cmaketutorial
+C++ software to creates lottery number using different techniques (C++) - https://github.com/sergiosvieira/fique-rico
+Vanet/DTN Protocol using Network Simulator (C++) - https://github.com/sergiosvieira/ns3-dtn
+Software to help syncronize text and subtitle - https://github.com/sergiosvieira/Clacket
+
+R&D
+Fuzzy Logic, Genetic Algorithm, Ant Algorithm, gnuplot, SUMO (Simulation of Urbarn Mobility), latex, awk.
+
+Network R&D
+MPLS, MPLS DiffServ, GMPLS, Vehicular Adhoc Network (VANET), Delay Tolerant Network (DTN), Network Simulator versions 2 and 3.
+
+Professional Work Experience
+Plain Software Engineer for FUNCEME (www.funceme.br), 2014-now
+I brought to the company the culture of to work togheter using Git to control all source code changes. I worked a lot with C++ progamming language using wxWidget in Windows Platform (Visual Studio). I was responsible to reformulate all canvas interface using computer graphics concepts of a software called SIGA (http://www.funceme.br/siga). This way was possible to load huges hidrologic network models. I worked with GDAL (Geospatial Data Abstraction Library) to improve a method used to calculate the rainfall average in a Basin (Thiessen Method). I worked a lot with CMake to create a multiplatform version of SIGA. I improved the performance of the open project method. All of this changes improved the overall performace of the SIGA and it will be used by a main governament institution of water allocation resources in Brazil.
+Skills: Software and System Architecture, Git, SVN, C++, wxWidgets, CMake, Linux, Windows, Mac OSX, Visual Studio, GDAL.
+Open Source Projects:
+https://github.com/sergiosvieira/geo_parser
+https://github.com/sergiosvieira/ceara-stations
+
+Software Enginner for Weelo, 2012-2014
+I worked in a Kickstarter called Weelo. I was the main iOS developer and I was responsible for develop a chat app from scratch using Objective-C, XMPP Protocol in Apple Development Platform (XCode). I worked with many frameworks to bring to the app a lot of features like google maps localization, facebook login for news users, customized XMPP Protocol, Asynchronous Programming to upload images to Amazon S3 service.
+Skills: Software and System Architecture, Git, Objective-C, XCode, iOS 6 and 7, Mac OSX, Network, XMPP Protocol, Amazon SDK, Google Maps SDK, Facebook SDK.
+Open Source Projects:
+https://github.com/sergiosvieira/TypingIndicator
+https://github.com/sergiosvieira/fastform
+https://github.com/sergiosvieira/OSPath
+https://github.com/robbiehanson/XMPPFramework/commit/f5429d6bd0c039f9808ba27c40d55d89300d4d99
+
+Software Engineer for FUJITEC, 2012
+I worked with Python programming language and Django framework. I worked in a team to create an financial web software. I created web services capable to read local databases and reponse queries. I also used credicard API to make financial transactions.
+Skills: Software and System Architecture, Git, SVN, Python, Django, Web Development, Visa/MasterCard API.
+
+Software Enginner for State University of Ceara (UECE) - 2011-2012
+I worked with Ruby and Racket Framework. In this project, I was responsible to create Network Protocols for creates automatic network switch tests. I also responsible to make some improvements on Ruby Garbage Collector using C language.
+Skills: Software and System Architecture, Git, Ruby, Network, Ruby Garbage Collector, OSPF, BGP, MPLS, RSVP.
+
+
+Academic Experience
+Master Degree in Computer Science (State University of Ceara) - 2010-2012
+My master degree was mainly focused in Computer Networks. The field of study was related with Vehicular Ad Hoc Networks (VANET), Delay Tolerant Networks (DTN) and Fuzzy Logic. In my thesis, I created a new VANET/DTN Network protocol using Fuzzy Logic on Network Simulator 3 (C++). I got good experimental results how you can see on paper publicated on AICT 2013 (https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiKyrTp0v7KAhXIh5AKHXXxCUcQFgggMAA&url=https%3A%2F%2Fwww.thinkmind.org%2Fdownload.php%3Farticleid%3Daict_2013_6_40_10209&usg=AFQjCNEUUVcTKVgrrWrdFHvl1TwdiKJgIA&sig2=Qv4bXL422XBJnHjlRWKQMw)
+Skills: Git, C++, SUMO, Network Simulator 3, Linux, AWK, gnuplot, VANET, DTN, Network.
+
+Idioms
+Portuguese - Native Proficiency
+English - Intermediate Proficiency
+French - Basic reading and listening
+
